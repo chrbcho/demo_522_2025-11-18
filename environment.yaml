@@ -1,0 +1,9 @@
+name: 522
+channels:
+  - conda-forge
+dependencies:
+  - conda
+  - python=3
+  - pandas
+  - jupyterlab
+
