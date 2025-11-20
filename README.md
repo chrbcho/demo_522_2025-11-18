@@ -7,3 +7,5 @@
     - `git switch -c <name>`: ccreate <name> and switch to  it in one go, from HEAD
 
 - when you push the branch to github, it will automatically update the PR
+
+git fetch --prune 
