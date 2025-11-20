@@ -8,4 +8,4 @@
 
 - when you push the branch to github, it will automatically update the PR
 
-git fetch --prune 
+- `git fetch --prune`: fetch updates from repo and prune local branches
